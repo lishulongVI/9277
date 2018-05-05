@@ -1,6 +1,6 @@
 
 <center style=“color:red”>9277</center>
-<center style=“color:bule>
+<center style=“color:bule">
 
 ```
 作曲 : 深七
