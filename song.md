@@ -1,8 +1,12 @@
 
 <center style=“color:red”>9277</center>
-<center style=“color:bule">
-<video controls="" autoplay="" name="media"><source src="http://other.web.nf01.sycdn.kuwo.cn/resource/n3/59/79/4185610769.mp3" type="audio/mpeg"></video>
 
+
+<audio src="http://other.web.nf01.sycdn.kuwo.cn/resource/n3/59/79/4185610769.mp3" controls="controls">
+Your browser does not support the audio tag.
+</audio>
+
+<center style=“color:bule">
 
 ```
 作曲 : 深七
