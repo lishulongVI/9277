@@ -1,7 +1,8 @@
 
 <center style=“color:red”>9277</center>
 <center style=“color:bule">
-<html><head><meta name="viewport" content="width=device-width"></head><body><video controls="" autoplay="" name="media"><source src="http://other.web.nf01.sycdn.kuwo.cn/resource/n3/59/79/4185610769.mp3" type="audio/mpeg"></video></body></html>
+<video controls="" autoplay="" name="media"><source src="http://other.web.nf01.sycdn.kuwo.cn/resource/n3/59/79/4185610769.mp3" type="audio/mpeg"></video>
+
 
 ```
 作曲 : 深七
