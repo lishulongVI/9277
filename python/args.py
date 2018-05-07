@@ -12,3 +12,14 @@ retur_args(1,2,3,**{})
 retur_args.count = 1
 
 print(retur_args.count)
+
+v = (1,2)
+print(v)
+
+c = {
+    v:"lishulong"
+}
+
+print(c)
+
+print(c.get(v))
