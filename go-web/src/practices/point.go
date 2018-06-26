@@ -3,6 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
+	"unsafe"
 )
 
 func testPtr() {
@@ -124,11 +125,48 @@ func array_() {
 
 func main() {
 	array_()
-	// testPtr()
-	// test_valu()
-	// test_v_b()
-	// test_s_v()
-	// error_deal()
-	// display()
+	testPtr()
+	test_valu()
+	test_v_b()
+	test_s_v()
+	error_deal()
+	display()
+	fmt.Println("hello , golang")
 
+	var i int
+	fmt.Println(i)
+
+	var j string
+	fmt.Println(j)
+
+	var k float64
+	fmt.Println(k)
+
+	l := 11
+	fmt.Println(l)
+
+	// i, j, k := 11, 22, 33
+	// fmt.Println(i, j, k)
+
+	var kk, ll, jj int
+	fmt.Println(kk, ll, jj)
+
+	var m1, n1, mm3 = "m1", 1, 'm'
+	fmt.Println(m1, n1, mm3)
+
+	var iiii int8 = -11
+	fmt.Println(iiii)
+	fmt.Printf("%T %d", iiii, unsafe.Sizeof(iiii))
+
+	var jk float32 = 234.567
+
+	fmt.Println(jk)
+	fmt.Println(jk)
+	fmt.Println(jk)
+	fmt.Println(jk)
+	fmt.Println(jk)
+
+	var vs int = '呗'
+	fmt.Printf("%d", vs)
+	fmt.Printf("%c", vs)
 }
